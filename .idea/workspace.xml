@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73464b3c-2a31-490f-b569-d4a075ef67d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/skillbox_testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/test_skillbox_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/test_skillbox_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/test_skillbox_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2/test_skillbox_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/test_skillbox_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,24 +39,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_skillbox_1.TestExample.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_skillbox_1.TestExample.test_open.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_skillbox_1.TestExample.test_open_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_skillbox_1.test_open.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/serge/PycharmProjects/skillbox_testing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_skillbox_1.TestExample.executor": "Run",
+    "Python tests.Python tests for test_skillbox_1.TestExample.test_open.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_1.TestExample.test_open_1.executor": "Run",
+    "Python tests.Python tests for test_skillbox_1.test_open.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_2.TestExample.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_2.TestExample.test_find_elements.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_2.TestExample.test_func.executor": "Run",
+    "Python tests.Python tests for test_skillbox_2.TestExample_1.test_find_elements.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_3.test_name_tag.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/serge/PycharmProjects/scool-testing"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\serge\PycharmProjects\skillbox_testing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_skillbox_1.TestExample">
+  <component name="RunManager" selected="Python tests.Python tests for test_skillbox_3.test_name_tag">
     <configuration name="Python tests for test_skillbox_1.TestExample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="skillbox_testing" />
       <option name="ENV_FILES" value="" />
@@ -79,52 +77,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_skillbox_1.TestExample.test_open" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="skillbox_testing" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_skillbox_1.TestExample.test_open&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_skillbox_1.TestExample.test_open_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="skillbox_testing" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_skillbox_1.TestExample.test_open_1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_skillbox_1.test_open" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="skillbox_testing" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_skillbox_1.test_open&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_skillbox_2.TestExample.test_func" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_skillbox_2.TestExample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="skillbox_testing" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,17 +88,62 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_skillbox_2.TestExample.test_func&quot;" />
+      <option name="_new_target" value="&quot;test_skillbox_2.TestExample&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_skillbox_2.TestExample_1.test_find_elements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="skillbox_testing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_skillbox_2.TestExample_1.test_find_elements&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_skillbox_2.TestExample.test_find_elements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="skillbox_testing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_skillbox_2.TestExample.test_find_elements&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_skillbox_3.test_name_tag" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="skillbox_testing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_skillbox_3.test_name_tag&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_skillbox_3.test_name_tag" />
+        <item itemvalue="Python tests.Python tests for test_skillbox_2.TestExample_1.test_find_elements" />
+        <item itemvalue="Python tests.Python tests for test_skillbox_2.TestExample.test_find_elements" />
+        <item itemvalue="Python tests.Python tests for test_skillbox_2.TestExample" />
         <item itemvalue="Python tests.Python tests for test_skillbox_1.TestExample" />
-        <item itemvalue="Python tests.Python tests for test_skillbox_2.TestExample.test_func" />
-        <item itemvalue="Python tests.Python tests for test_skillbox_1.test_open" />
-        <item itemvalue="Python tests.Python tests for test_skillbox_1.TestExample.test_open" />
-        <item itemvalue="Python tests.Python tests for test_skillbox_1.TestExample.test_open_1" />
       </list>
     </recent_temporary>
   </component>
@@ -166,5 +164,16 @@
       <updated>1745039624325</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_2/test_skillbox_2.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

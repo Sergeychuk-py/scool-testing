@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73464b3c-2a31-490f-b569-d4a075ef67d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_3/test_click.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3/test_slider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3/test_skillbox_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/test_input.py" afterDir="false" />
-    </list>
+    <list default="true" id="73464b3c-2a31-490f-b569-d4a075ef67d1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_chat.TestCharts.test_table.executor": "Run",
     "Python tests.Python tests for test_click.TestClick.test_calendar.executor": "Run",
     "Python tests.Python tests for test_click.TestClick.test_checkbox.executor": "Run",
     "Python tests.Python tests for test_click.TestClick.test_click.executor": "Run",
@@ -52,10 +48,11 @@
     "Python tests.Python tests for test_skillbox_2.TestExample.test_func.executor": "Run",
     "Python tests.Python tests for test_skillbox_2.TestExample_1.test_find_elements.executor": "Debug",
     "Python tests.Python tests for test_skillbox_3.test_name_tag.executor": "Run",
+    "Python tests.Python tests for test_slider.TestSlider.test_slider.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/serge/PycharmProjects/ALKO-MARKET",
+    "last_opened_file_path": "C:/Users/serge/PycharmProjects/scool-testing",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -64,7 +61,22 @@
       <recent name="C:\Users\serge\PycharmProjects\skillbox_testing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_click.TestClick.test_checkbox">
+  <component name="RunManager" selected="Python tests.Python tests for test_chat.TestCharts.test_table">
+    <configuration name="Python tests for test_chat.TestCharts.test_table" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="skillbox_testing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_chat.TestCharts.test_table&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_click.TestClick.test_calendar" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="skillbox_testing" />
       <option name="ENV_FILES" value="" />
@@ -95,21 +107,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_click.TestClick.test_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="skillbox_testing" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_click.TestClick.test_click&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for test_click.TestClick.test_drop_down" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="skillbox_testing" />
       <option name="ENV_FILES" value="" />
@@ -125,28 +122,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_skillbox_3.test_name_tag" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_slider.TestSlider.test_slider" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="skillbox_testing" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_skillbox_3.test_name_tag&quot;" />
+      <option name="_new_target" value="&quot;test_slider.TestSlider.test_slider&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_chat.TestCharts.test_table" />
+        <item itemvalue="Python tests.Python tests for test_slider.TestSlider.test_slider" />
         <item itemvalue="Python tests.Python tests for test_click.TestClick.test_checkbox" />
         <item itemvalue="Python tests.Python tests for test_click.TestClick.test_calendar" />
         <item itemvalue="Python tests.Python tests for test_click.TestClick.test_drop_down" />
-        <item itemvalue="Python tests.Python tests for test_click.TestClick.test_click" />
-        <item itemvalue="Python tests.Python tests for test_skillbox_3.test_name_tag" />
       </list>
     </recent_temporary>
   </component>

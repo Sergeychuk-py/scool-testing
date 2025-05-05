@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73464b3c-2a31-490f-b569-d4a075ef67d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_4/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_4/markdown.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_4/test_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/test_validate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,9 @@
     "Python tests.Python tests for test_skillbox_2.TestExample_1.test_find_elements.executor": "Debug",
     "Python tests.Python tests for test_skillbox_3.test_name_tag.executor": "Run",
     "Python tests.Python tests for test_slider.TestSlider.test_slider.executor": "Run",
+    "Python tests.Python tests for test_validate.TestValidate.test_checkbox.executor": "Run",
+    "Python tests.Python tests for test_validate.TestValidate.test_disabled.executor": "Run",
+    "Python tests.Python tests for test_validate.TestValidate.test_validate.executor": "Run",
     "Python tests.Python tests for test_wait.TestWait.test_wait.executor": "Run",
     "Python tests.Python tests for test_wait.TestWait.test_wait_forms.executor": "Run",
     "Python tests.Python tests for test_wait.TestWait.test_wait_types.executor": "Run",
@@ -66,52 +69,53 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_5" />
       <recent name="C:\Users\serge\PycharmProjects\skillbox_testing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_wait.TestWait.test_wait_forms">
-    <configuration name="Python tests for test_chat.TestCharts.test_table" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_validate.TestValidate.test_disabled">
+    <configuration name="Python tests for test_validate.TestValidate.test_checkbox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="skillbox_testing" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_chat.TestCharts.test_table&quot;" />
+      <option name="_new_target" value="&quot;test_validate.TestValidate.test_checkbox&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_slider.TestSlider.test_slider" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_validate.TestValidate.test_disabled" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="skillbox_testing" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_slider.TestSlider.test_slider&quot;" />
+      <option name="_new_target" value="&quot;test_validate.TestValidate.test_disabled&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_wait.TestWait.test_wait" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_validate.TestValidate.test_validate" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="skillbox_testing" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_wait.TestWait.test_wait&quot;" />
+      <option name="_new_target" value="&quot;test_validate.TestValidate.test_validate&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -147,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_validate.TestValidate.test_disabled" />
+        <item itemvalue="Python tests.Python tests for test_validate.TestValidate.test_checkbox" />
+        <item itemvalue="Python tests.Python tests for test_validate.TestValidate.test_validate" />
         <item itemvalue="Python tests.Python tests for test_wait.TestWait.test_wait_forms" />
         <item itemvalue="Python tests.Python tests for test_wait.TestWait.test_wait_types" />
-        <item itemvalue="Python tests.Python tests for test_wait.TestWait.test_wait" />
-        <item itemvalue="Python tests.Python tests for test_chat.TestCharts.test_table" />
-        <item itemvalue="Python tests.Python tests for test_slider.TestSlider.test_slider" />
       </list>
     </recent_temporary>
   </component>

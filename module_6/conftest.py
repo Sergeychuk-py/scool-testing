@@ -11,5 +11,4 @@ logging.config.fileConfig(lof_file_path)
 @pytest.fixture()
 def driver():
     driver = webdriver.Chrome()
-    driver.implicitly_wait(3)
     yield driver

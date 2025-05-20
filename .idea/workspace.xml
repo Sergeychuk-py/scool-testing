@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73464b3c-2a31-490f-b569-d4a075ef67d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="73464b3c-2a31-490f-b569-d4a075ef67d1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,42 +34,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_chat.TestCharts.test_table.executor": "Run",
-    "Python tests.Python tests for test_check_log.TestLog.executor": "Run",
-    "Python tests.Python tests for test_click.TestClick.test_calendar.executor": "Run",
-    "Python tests.Python tests for test_click.TestClick.test_checkbox.executor": "Run",
-    "Python tests.Python tests for test_click.TestClick.test_click.executor": "Run",
-    "Python tests.Python tests for test_click.TestClick.test_drop_down.executor": "Run",
-    "Python tests.Python tests for test_skillbox.TestSkillBox.executor": "Run",
-    "Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count.executor": "Run",
-    "Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2.executor": "Run",
-    "Python tests.Python tests for test_skillbox.TestSkillBox.test_first.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_1.TestExample.executor": "Run",
-    "Python tests.Python tests for test_skillbox_1.TestExample.test_open.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_1.TestExample.test_open_1.executor": "Run",
-    "Python tests.Python tests for test_skillbox_1.test_open.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_2.TestExample.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_2.TestExample.test_find_elements.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_2.TestExample.test_func.executor": "Run",
-    "Python tests.Python tests for test_skillbox_2.TestExample_1.test_find_elements.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_3.test_name_tag.executor": "Run",
-    "Python tests.Python tests for test_slider.TestSlider.test_slider.executor": "Run",
-    "Python tests.Python tests for test_validate.TestValidate.test_checkbox.executor": "Run",
-    "Python tests.Python tests for test_validate.TestValidate.test_disabled.executor": "Run",
-    "Python tests.Python tests for test_validate.TestValidate.test_validate.executor": "Run",
-    "Python tests.Python tests for test_wait.TestWait.test_wait.executor": "Run",
-    "Python tests.Python tests for test_wait.TestWait.test_wait_forms.executor": "Run",
-    "Python tests.Python tests for test_wait.TestWait.test_wait_types.executor": "Run",
-    "Python.logs.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/serge/PycharmProjects/scool-testing",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_chat.TestCharts.test_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_log.TestLog.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_click.TestClick.test_calendar.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_click.TestClick.test_checkbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_click.TestClick.test_click.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_click.TestClick.test_drop_down.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_skillbox.TestSkillBox.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_skillbox.TestSkillBox.test_first.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_skillbox_1.TestExample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_skillbox_1.TestExample.test_open.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_skillbox_1.TestExample.test_open_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_skillbox_1.test_open.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_skillbox_2.TestExample.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_skillbox_2.TestExample.test_find_elements.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_skillbox_2.TestExample.test_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_skillbox_2.TestExample_1.test_find_elements.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_skillbox_3.test_name_tag.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_slider.TestSlider.test_slider.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_validate.TestValidate.test_checkbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_validate.TestValidate.test_disabled.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_validate.TestValidate.test_validate.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_wait.TestWait.test_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_wait.TestWait.test_wait_forms.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_wait.TestWait.test_wait_types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logs.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/serge/PycharmProjects/scool-testing&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_5" />

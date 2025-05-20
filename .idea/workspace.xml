@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73464b3c-2a31-490f-b569-d4a075ef67d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_8/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8/locator/form_page_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8/pages/form_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8/test/test_form.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

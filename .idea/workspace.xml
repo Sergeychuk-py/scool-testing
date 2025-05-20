@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73464b3c-2a31-490f-b569-d4a075ef67d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/module_8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/locator/form_page_locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/pages/form_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/test/test_form.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +53,7 @@
     "Python tests.Python tests for test_click.TestClick.test_checkbox.executor": "Run",
     "Python tests.Python tests for test_click.TestClick.test_click.executor": "Run",
     "Python tests.Python tests for test_click.TestClick.test_drop_down.executor": "Run",
+    "Python tests.Python tests for test_form.TestFormPage.executor": "Run",
     "Python tests.Python tests for test_skillbox.TestSkillBox.executor": "Run",
     "Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count.executor": "Run",
     "Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2.executor": "Run",
@@ -67,38 +77,33 @@
     "Python.logs.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "version__2",
     "last_opened_file_path": "C:/Users/serge/PycharmProjects/scool-testing",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_8" />
+      <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_8\test" />
       <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_5" />
       <recent name="C:\Users\serge\PycharmProjects\skillbox_testing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2">
-    <configuration name="logs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_form.TestFormPage">
+    <configuration name="Python tests for test_form.TestFormPage" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="skillbox_testing" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_8/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_6/logs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_form.TestFormPage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test_skillbox.TestSkillBox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -163,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_form.TestFormPage" />
         <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2" />
         <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count" />
         <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox" />
         <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox.test_first" />
-        <item itemvalue="Python.logs" />
       </list>
     </recent_temporary>
   </component>

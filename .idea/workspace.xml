@@ -34,6 +34,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python tests.Python tests for test_chat.TestCharts.test_table.executor&quot;: &quot;Run&quot;,
@@ -68,35 +69,67 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/serge/PycharmProjects/scool-testing&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_chat.TestCharts.test_table.executor": "Run",
+    "Python tests.Python tests for test_check_log.TestLog.executor": "Run",
+    "Python tests.Python tests for test_click.TestClick.test_calendar.executor": "Run",
+    "Python tests.Python tests for test_click.TestClick.test_checkbox.executor": "Run",
+    "Python tests.Python tests for test_click.TestClick.test_click.executor": "Run",
+    "Python tests.Python tests for test_click.TestClick.test_drop_down.executor": "Run",
+    "Python tests.Python tests for test_form.TestFormPage.executor": "Run",
+    "Python tests.Python tests for test_skillbox.TestSkillBox.executor": "Run",
+    "Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count.executor": "Run",
+    "Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2.executor": "Run",
+    "Python tests.Python tests for test_skillbox.TestSkillBox.test_first.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_1.TestExample.executor": "Run",
+    "Python tests.Python tests for test_skillbox_1.TestExample.test_open.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_1.TestExample.test_open_1.executor": "Run",
+    "Python tests.Python tests for test_skillbox_1.test_open.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_2.TestExample.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_2.TestExample.test_find_elements.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_2.TestExample.test_func.executor": "Run",
+    "Python tests.Python tests for test_skillbox_2.TestExample_1.test_find_elements.executor": "Debug",
+    "Python tests.Python tests for test_skillbox_3.test_name_tag.executor": "Run",
+    "Python tests.Python tests for test_slider.TestSlider.test_slider.executor": "Run",
+    "Python tests.Python tests for test_validate.TestValidate.test_checkbox.executor": "Run",
+    "Python tests.Python tests for test_validate.TestValidate.test_disabled.executor": "Run",
+    "Python tests.Python tests for test_validate.TestValidate.test_validate.executor": "Run",
+    "Python tests.Python tests for test_wait.TestWait.test_wait.executor": "Run",
+    "Python tests.Python tests for test_wait.TestWait.test_wait_forms.executor": "Run",
+    "Python tests.Python tests for test_wait.TestWait.test_wait_types.executor": "Run",
+    "Python.logs.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "version__2",
+    "last_opened_file_path": "C:/Users/serge/PycharmProjects/scool-testing",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+>>>>>>> version_2
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_8" />
+      <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_8\test" />
       <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_5" />
       <recent name="C:\Users\serge\PycharmProjects\skillbox_testing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2">
-    <configuration name="logs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_form.TestFormPage">
+    <configuration name="Python tests for test_form.TestFormPage" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="skillbox_testing" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_8/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_6/logs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_form.TestFormPage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test_skillbox.TestSkillBox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -161,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_form.TestFormPage" />
         <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2" />
         <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count" />
         <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox" />
         <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox.test_first" />
-        <item itemvalue="Python.logs" />
       </list>
     </recent_temporary>
   </component>

@@ -1,207 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="73464b3c-2a31-490f-b569-d4a075ef67d1" name="Changes" comment="" />
+    <list default="true" id="9920a11b-aed1-448b-8eb5-7f4b4d39f88f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2vvy16IQR2bqFdJWG2PJFQVKDT1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2y4weD5xETzxMOLjZXeJer8Vl0z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_chat.TestCharts.test_table.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_check_log.TestLog.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_click.TestClick.test_calendar.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_click.TestClick.test_checkbox.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_click.TestClick.test_click.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_click.TestClick.test_drop_down.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_skillbox.TestSkillBox.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_skillbox.TestSkillBox.test_first.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_skillbox_1.TestExample.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_skillbox_1.TestExample.test_open.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_skillbox_1.TestExample.test_open_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_skillbox_1.test_open.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_skillbox_2.TestExample.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_skillbox_2.TestExample.test_find_elements.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_skillbox_2.TestExample.test_func.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_skillbox_2.TestExample_1.test_find_elements.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_skillbox_3.test_name_tag.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_slider.TestSlider.test_slider.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_validate.TestValidate.test_checkbox.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_validate.TestValidate.test_disabled.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_validate.TestValidate.test_validate.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_wait.TestWait.test_wait.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_wait.TestWait.test_wait_forms.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_wait.TestWait.test_wait_types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logs.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/serge/PycharmProjects/scool-testing&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
-=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python tests.Python tests for test_chat.TestCharts.test_table.executor": "Run",
-    "Python tests.Python tests for test_check_log.TestLog.executor": "Run",
-    "Python tests.Python tests for test_click.TestClick.test_calendar.executor": "Run",
-    "Python tests.Python tests for test_click.TestClick.test_checkbox.executor": "Run",
-    "Python tests.Python tests for test_click.TestClick.test_click.executor": "Run",
-    "Python tests.Python tests for test_click.TestClick.test_drop_down.executor": "Run",
-    "Python tests.Python tests for test_form.TestFormPage.executor": "Run",
-    "Python tests.Python tests for test_skillbox.TestSkillBox.executor": "Run",
-    "Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count.executor": "Run",
-    "Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2.executor": "Run",
-    "Python tests.Python tests for test_skillbox.TestSkillBox.test_first.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_1.TestExample.executor": "Run",
-    "Python tests.Python tests for test_skillbox_1.TestExample.test_open.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_1.TestExample.test_open_1.executor": "Run",
-    "Python tests.Python tests for test_skillbox_1.test_open.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_2.TestExample.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_2.TestExample.test_find_elements.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_2.TestExample.test_func.executor": "Run",
-    "Python tests.Python tests for test_skillbox_2.TestExample_1.test_find_elements.executor": "Debug",
-    "Python tests.Python tests for test_skillbox_3.test_name_tag.executor": "Run",
-    "Python tests.Python tests for test_slider.TestSlider.test_slider.executor": "Run",
-    "Python tests.Python tests for test_validate.TestValidate.test_checkbox.executor": "Run",
-    "Python tests.Python tests for test_validate.TestValidate.test_disabled.executor": "Run",
-    "Python tests.Python tests for test_validate.TestValidate.test_validate.executor": "Run",
-    "Python tests.Python tests for test_wait.TestWait.test_wait.executor": "Run",
-    "Python tests.Python tests for test_wait.TestWait.test_wait_forms.executor": "Run",
-    "Python tests.Python tests for test_wait.TestWait.test_wait_types.executor": "Run",
-    "Python.logs.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "version__2",
-    "last_opened_file_path": "C:/Users/serge/PycharmProjects/scool-testing",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
->>>>>>> version_2
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_8" />
-      <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_8\test" />
-      <recent name="C:\Users\serge\PycharmProjects\scool-testing\module_5" />
-      <recent name="C:\Users\serge\PycharmProjects\skillbox_testing" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_form.TestFormPage">
-    <configuration name="Python tests for test_form.TestFormPage" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="skillbox_testing" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_8/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_form.TestFormPage&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_skillbox.TestSkillBox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="skillbox_testing" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_skillbox.TestSkillBox&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_skillbox.TestSkillBox.test_default_count" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="skillbox_testing" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_skillbox.TestSkillBox.test_default_count&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_skillbox.TestSkillBox.test_default_count_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="skillbox_testing" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_skillbox.TestSkillBox.test_default_count_2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_skillbox.TestSkillBox.test_first" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="skillbox_testing" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_skillbox.TestSkillBox.test_first&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.Python tests for test_form.TestFormPage" />
-        <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count_2" />
-        <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox.test_default_count" />
-        <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox" />
-        <item itemvalue="Python tests.Python tests for test_skillbox.TestSkillBox.test_first" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -212,27 +32,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="73464b3c-2a31-490f-b569-d4a075ef67d1" name="Changes" comment="" />
-      <created>1745039624325</created>
+      <changelist id="9920a11b-aed1-448b-8eb5-7f4b4d39f88f" name="Changes" comment="" />
+      <created>1749107247071</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1745039624325</updated>
+      <updated>1749107247071</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_2/test_skillbox_2.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_3/test_input.py</url>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

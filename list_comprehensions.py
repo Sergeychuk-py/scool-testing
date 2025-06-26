@@ -115,6 +115,8 @@ class User:
     password = '0000'
     is_banned = False
 
-user = User()
+ser = User()
 user.name = 'Tom'
 print(user.name)
+print(user.password)
+print(user.is_banned)

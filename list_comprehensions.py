@@ -120,3 +120,9 @@ user.name = 'Tom'
 print(user.name)
 print(user.password)
 print(user.is_banned)
+
+
+nums = [1,2,3,4,78,10,5,6]
+
+def solution(nums):
+    print(nums.sort())

@@ -33,8 +33,10 @@
 #
 # print(number(["a", "b", "c"]))
 
-def get_age(age):
-    for age in range(0, 9 + 1):
-     return age
 
-print(get_age(age=4))
+d = [4, 5, 7, 8, 9, 87]
+it = iter(d)
+print(next(it))
+print(next(it))
+print(next(it))
+print(next(it))
